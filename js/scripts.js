@@ -325,7 +325,6 @@ function insertItemPrice(html,
   return html;
 }
 
-
 // Appends portion name in parens if it exists
 function insertItemPortionName(html,
                                portionPropName,
